@@ -17,9 +17,9 @@ Java, Python, Spring Boot, Angular, AWS, and general software development questi
 ⚡ **Fun fact:**  
 Passionate about problem-solving and continuous learning in software development.
 
-🏅 ** Certifications:**
-✅ AWS Certified Developer – Associate (Completed)
-✅ Microsoft Certified: GitHub Copilot Fundamentals
+🏅 **Certifications:**  
+✅ AWS Certified Developer – Associate (Completed)<br>
+✅ Microsoft Certified: GitHub Copilot Fundamentals<br>
 ✅ Mphasis Limited Certified: Microservices Cluster Skills Badge
 
 ---
