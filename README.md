@@ -66,6 +66,6 @@ Passionate about problem-solving and continuous learning in software development
 <!-- ### 📈 GitHub Stats (optional) -->
 
 ```md
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumar-Mayur&show_icons=true&theme=radical)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumar-Mayur&show_icons=true&theme=radical)-->
 
 
