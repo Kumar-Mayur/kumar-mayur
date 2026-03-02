@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kumar Mayur</h1>
-<h3 align="center">🚀 Cloud & Microservices Enthusiast | Full Stack Developer</h3>
+## Hi there 👋
 
 # 👋 About Me:
 
