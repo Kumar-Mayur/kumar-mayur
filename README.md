@@ -49,7 +49,7 @@ I love solving complex problems and continuously improving my development skills
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-<hr style="height:0.5px;border:none;background-color:#eaeaea;">
+<hr style="height:0.1px;border:none;background-color:#eaeaea;">
 
 ### 🎨 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
