@@ -23,8 +23,19 @@ Innovative **Full-Stack Projects** involving modern frontend, scalable backend, 
 I love solving complex problems and continuously improving my development skills.
 
 ---
+🏅 **Certifications:**  
+✅ AWS Certified Developer – Associate (Completed)<br>
+✅ Microsoft Certified: GitHub Copilot Fundamentals<br>
+✅ Mphasis Limited Certified: Microservices Cluster Skills Badge
 
-## 🛠️ Tech Stack  
+
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 ## 💻 Tech Stack:
 
@@ -51,21 +62,6 @@ I love solving complex problems and continuously improving my development skills
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logoColor=white)
 ![RESTful Services](https://img.shields.io/badge/RESTful%20Services-005C97?style=for-the-badge&logoColor=white)
 ![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-800080?style=for-the-badge&logoColor=white)
-
----
-
-## 🏅 Certifications  
-
-🏆 **AWS Certified Developer – Associate**  
-🏆 **Microsoft Certified: GitHub Copilot Fundamentals**  
-🏆 **Mphasis Limited Certified: Microservices Cluster Skills Badge**
-
----
-
-## 📫 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
