@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kumar Mayur</h1>
+<h3 align="center">🚀 Cloud & Microservices Enthusiast | Full Stack Developer</h3>
 
 # 👋 About Me:
 
@@ -38,6 +39,7 @@ I love solving complex problems and continuously improving my development skills
 
 
 ## 💻 Tech Stack  
+
 
 ### 🚀 Backend  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
