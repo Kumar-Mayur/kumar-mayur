@@ -2,20 +2,23 @@
 
 # 👋 About Me:
 
-🛠️ **I’m currently working on:**  
-Enhancing cloud-based solutions and developing microservices with Java.
+🔭 **Currently Working On**  
+Building and enhancing scalable **cloud-based solutions** and developing robust **microservices architecture using Java**.
 
-🤝 **I’m looking to collaborate on:**  
-Full-stack projects
+🤝 **Looking to Collaborate On**  
+Innovative **Full-Stack Projects** involving modern frontend, scalable backend, and cloud integrations.
 
-🌱 **I’m currently learning:**  
-Proficient in AWS services at an intermediate level, with a solid foundation in Data Structures and Algorithms.
+🌱 **Currently Learning**  
+- Intermediate level expertise in **AWS Services**
+- Advanced **System Design Concepts**
+- Strong foundation in **Data Structures & Algorithms**
 
-💬 **Ask me about:**  
-Java, Spring, Spring Boot, Golang, React, AWS, and general software development questions.
+💬 **Ask Me About**  
+`Java` | `Spring` | `Spring Boot` | `Golang` | `React` | `AWS` | `Software Development`
 
-⚡ **Fun fact:**  
-Passionate about problem-solving and continuous learning in software development.
+⚡ **Fun Fact**  
+I love solving complex problems and continuously improving my development skills.
+
 
 🏅 **Certifications:**  
 ✅ AWS Certified Developer – Associate (Completed)<br>
