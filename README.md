@@ -12,7 +12,7 @@ Full-stack projects
 Proficient in AWS services at an intermediate level, with a solid foundation in Data Structures and Algorithms.
 
 💬 **Ask me about:**  
-Java, Python, Spring Boot, Angular, AWS, and general software development questions.
+Java, Spring, Spring Boot, Golang, React, AWS, and general software development questions.
 
 ⚡ **Fun fact:**  
 Passionate about problem-solving and continuous learning in software development.
@@ -38,7 +38,8 @@ Passionate about problem-solving and continuous learning in software development
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
