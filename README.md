@@ -25,7 +25,7 @@ I love solving complex problems and continuously improving my development skills
 ✅ Microsoft Certified: GitHub Copilot Fundamentals<br>
 ✅ Mphasis Limited Certified: Microservices Cluster Skills Badge
 
----
+--
 
 ## 🌐 Socials:
 
@@ -35,7 +35,7 @@ I love solving complex problems and continuously improving my development skills
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 
----
+--
 
 ## 💻 Tech Stack  
 
